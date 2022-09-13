@@ -23,4 +23,4 @@ Makefile
 *.make
 *.d
 *.o
-
+*.img
